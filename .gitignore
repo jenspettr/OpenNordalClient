@@ -1,0 +1,8 @@
+OpenNordal.log
+*.log
+*.tmp
+*.bak
+crash*.txt
+config.otml
+.vs/
+.idea/
